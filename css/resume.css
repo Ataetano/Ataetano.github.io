@@ -121,14 +121,3 @@ a {
 .mb-5 {
   font-size: 25px;
 }
-
-.container {
-  background: url("img/fonts.jpg") no-repeat center center;
-  background-size: 100%;
-  color: transparent;
-  -webkit-background-clip: text;
-  background-clip: text;
-}
-
-.container h1 {
-}
